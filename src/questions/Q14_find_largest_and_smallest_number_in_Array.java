@@ -6,4 +6,7 @@ public class Q14_find_largest_and_smallest_number_in_Array {
 
 
     }
+    public static void findLarge_Small(int[] arr){
+
+    }
 }
